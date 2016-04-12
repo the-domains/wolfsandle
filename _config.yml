@@ -1,7 +1,8 @@
-name: wolfsandle
+name: '[Enter] & [Esc]'
 favicon: null
 layout_spectrum: 0.50011
 typography_spectrum: 0.09289
+title: '[Enter] & [Esc]'
 cta:
   domain: null
   bucket: null
