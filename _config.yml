@@ -1,0 +1,28 @@
+name: wolfsandle
+favicon: null
+layout_spectrum: 0.50011
+typography_spectrum: 0.05163218267261982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7294483431614935
+  lightness: 0.9329887747298926
+  saturation: 0.8913536788895726
+  rhythmicContrast: 0.15587909263558686
+purpose: []
