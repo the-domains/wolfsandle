@@ -1,6 +1,6 @@
 name: '[Enter] & [Esc]'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49723
 typography_spectrum: 0.09289
 title: '[Enter] & [Esc]'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0
-  lightness: 0.9329887747298926
+  lightness: 0.625
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
