@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You received the tip of a lifetime! An old miner has been paying with only gold nuggets at the local saloon.'
-datePublished: '2016-04-13T00:26:06.802Z'
-dateModified: '2016-04-13T00:26:06.470Z'
+datePublished: '2016-04-13T00:34:14.924Z'
+dateModified: '2016-04-13T00:32:17.365Z'
 title: Gold Fever
 author: []
 sourcePath: _posts/2016-04-12-gold-fever.md
@@ -22,7 +22,7 @@ url: gold-fever/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91076899-e628-442c-a1ef-e45a4595aa03.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96fc7055-4d61-4f75-a0dd-b02340ed6895.jpg)
 
 You received the tip of a lifetime! An old miner has been paying with only gold nuggets at the local saloon.
 
