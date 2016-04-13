@@ -4,8 +4,15 @@
         <description><![CDATA[[Enter] & [Esc]]]></description>
         <link>https://thegrid.ai/wolfsandle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 00:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 00:26:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wolfsandle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold Fever]]></title>
+            <description><![CDATA[<article><h1>Gold Fever</h1><p>You received the tip of a lifetime! An old miner has been paying with only gold nuggets at the local saloon.</p></article>]]></description>
+            <link>https://thegrid.ai/wolfsandle/gold-fever/index.html</link>
+            <guid isPermaLink="false">c75d58a8-d3e9-4bf2-ad51-811ba94e0316</guid>
+            <pubDate>Wed, 13 Apr 2016 00:26:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moonbase: Alpha]]></title>
             <description><![CDATA[<article><h1>Moonbase: Alpha</h1><p>You are members of an exploratory crew of astronauts who
@@ -14,13 +21,6 @@ effort.</p></article>]]></description>
             <link>https://thegrid.ai/wolfsandle/moonbase-alpha/index.html</link>
             <guid isPermaLink="false">86614939-720a-4e76-93b1-465bfdc8cc64</guid>
             <pubDate>Wed, 13 Apr 2016 00:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gold Fever]]></title>
-            <description><![CDATA[<article><h1>Gold Fever</h1><p>You received the tip of a lifetime! An old miner has been paying with only gold nuggets at the local saloon.</p></article>]]></description>
-            <link>https://thegrid.ai/wolfsandle/gold-fever/index.html</link>
-            <guid isPermaLink="false">c75d58a8-d3e9-4bf2-ad51-811ba94e0316</guid>
-            <pubDate>Tue, 12 Apr 2016 19:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
