@@ -3,14 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |-
   You are members of an exploratory crew of astronauts who
   are on a mission to establish a scout base for an imminent colonization
   effort.
-datePublished: '2016-04-13T00:37:09.045Z'
-dateModified: '2016-04-13T00:36:43.528Z'
+datePublished: '2016-04-13T01:16:54.011Z'
+dateModified: '2016-04-13T01:16:53.549Z'
 title: 'Moonbase: Alpha'
 author: []
 sourcePath: _posts/2016-04-12-moonbase-alpha.md
