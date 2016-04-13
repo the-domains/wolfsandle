@@ -9,8 +9,8 @@ description: |-
   You are members of an exploratory crew of astronauts who
   are on a mission to establish a scout base for an imminent colonization
   effort.
-datePublished: '2016-04-13T00:34:27.366Z'
-dateModified: '2016-04-13T00:33:12.465Z'
+datePublished: '2016-04-13T00:35:13.761Z'
+dateModified: '2016-04-13T00:35:08.502Z'
 title: 'Moonbase: Alpha'
 author: []
 sourcePath: _posts/2016-04-12-moonbase-alpha.md
